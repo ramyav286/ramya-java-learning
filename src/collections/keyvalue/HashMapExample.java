@@ -32,7 +32,7 @@ public class HashMapExample {
 		System.out.println(subctMarksMap);
 		subctMarksMap.put("Null", 97.5);
 		System.out.println(subctMarksMap);
-		
+		System.out.println("Maths");
 		
 
 	}
