@@ -21,7 +21,7 @@ public class FinallyExample {
 			System.out.println("Inside finally block");
 		}
 		
-		Thread.sleep(2000);
+	
 		int m = 5;
 		int n = 10;
 		System.out.println("Addition Operation");
